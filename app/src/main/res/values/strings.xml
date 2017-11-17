@@ -5,4 +5,7 @@
     <string name="threepoints">+3 points</string>
     <string name="twopoints">+2 points</string>
     <string name="free">free throw</string>
+    <string name="teamb">Team B</string>
+    <string name="scoreb">0</string>
+    <string name="reset">Reset</string>
 </resources>
